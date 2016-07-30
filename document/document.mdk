@@ -1,5 +1,5 @@
 [INCLUDE=bootstrap]
-Title      : Bootstrap demo document
+Title      : Preistorical teacher take care of millenials
 Theme      : darkly
 Css        : nav-example.css
 Col        { .col-lg-4 }
@@ -7,10 +7,10 @@ Col        { .col-lg-4 }
 ~ Begin Container
 ~ Masthead
 
-### Project name {.text-muted}
-
+### Prehistorycal care 2.0 {.text-muted}
+  
 * {.active} [Home](#)
-* [Projects](http://rise4fun.com)
+* [Progetti](progetti)
 * [Services](#)
 * [Downloads](#)
 * [About](#)
